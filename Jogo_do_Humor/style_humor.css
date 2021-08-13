@@ -1,0 +1,27 @@
+
+.boas-vindas {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#bh{
+    display: flex;
+    width: 290px;
+    
+}
+
+body{
+    background-image: url("img/balao.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-right: 7rem;
+    padding-top: 8rem;
+    
+}
